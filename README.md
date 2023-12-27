@@ -43,19 +43,20 @@ The types of attacks available to the player are:
 # Gameplay Preview
 
 ## Jump and Double Jump
-![Jump and Double Jump](url_of_gif)
+![Jump and Double Jump](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/04f3a556-ff40-41d7-8f19-60811d246a1d)
+
 
 ## Ball Mode, Bombs and Box Explosions
-![Ball Mode, Bombs and Box Explosions](url_of_gif)
+![Ball Mode, Bombs and Box Explosions](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/8220ba02-3ae0-4ecc-879f-a7a040e19566)
 
 ## Dash Mode
-![Dash Mode](url_of_gif)
+![Dash Mode](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/7240b113-7604-4e25-bd88-79e55bd5bc56)
 
 ## Hearts and Coins Pickups
-![Hearts and Coins Pickups](url_of_gif)
+![Hearts and Coins Pickups](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/4880223d-8f2f-4c7b-abc0-39ad231a1b52)
 
 ## Arrows
-![Arrows](url_of_gif)
+![Arrows](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/a187fb8a-e688-4046-a337-e7cbf0c2b680)
 
 ---
 
