@@ -53,7 +53,7 @@ The types of attacks available to the player are:
 ![Dash Mode](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/7240b113-7604-4e25-bd88-79e55bd5bc56)
 
 ## Hearts and Coins Pickups
-![Hearts and Coins Pickups](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/4880223d-8f2f-4c7b-abc0-39ad231a1b52)
+![Hearts and Coins Pickups](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/186f1401-c788-42c6-9914-64b63c77beff)
 
 ## Arrows
 ![Arrows](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/a187fb8a-e688-4046-a337-e7cbf0c2b680)
