@@ -11,21 +11,19 @@ The following are the animations used in the state machines of the various chara
   - Run
   - Jump
   - Double Jump
-  - Dash
-  - Ball Mode
-  - Drop Bomb
+  - Ball Move
+  - Ball Idle
+  - Bow
 
 - **Bomb:**
-  - Tick
-  - Explode
+  - Active
+  - Explosion
 
 - **Arrow:**
-  - Shoot
-  - Hit
+  - Arrow Flying
 
 - **Bat:**
   - Fly
-  - Hit
 
 ## **Pickups**
 The types of pickups implemented in the game are:
@@ -59,7 +57,7 @@ The types of attacks available to the player are:
 ![Arrows](https://github.com/JuanGr95/Pixel-Hero-2D/assets/131586834/a187fb8a-e688-4046-a337-e7cbf0c2b680)
 
 ---
-
+<!--
 ### Project Specifications
 
 #### Unlocking System for EXTRAS
@@ -85,3 +83,4 @@ The relevant scripts for this system are:
 - `EnemyController.cs` (to manage the destruction animation)
 
 ---
+-->
